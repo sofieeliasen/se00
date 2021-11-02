@@ -1,31 +1,30 @@
-### Welcome to my page
+# Velkommen til min hjemmeside
 
-Here you will get to know more about me. 
+Her kan du læse mere om mig og min joberfaring. 
 
-## Resumé
-- From 2015-2019, I worked at a movie theatre called Palads Teatret in Frederikshavn.
-- From 2019-2021, I worked at Skagen Bryghus as a waiter.
-- From 2020-now, I work as a personal assistant for a lecturer at Aalborg University. 
+### Min uddannelse
+- Studentereksamen 2019 fra Frederikshavn Gymnasium
+- Videregående uddannelse fra Aalborg Universitet - International virksomhedskommunikation i Engelsk, færdig med bacehlor i 2022
 
+### CV
 
-# My competences
-- Bulleted
-- List
+Palads teatret 
+- 2015 til 2019
+- Piccoline, kioskmedarbejder og billetsælger
 
-1. Numbered
-2. List
+Skagen Bryghus 
+- 2019 til 2021
+- Tjener
 
-**Bold** and _Italic_ and `Code` text
+Aalborg Universitet
+- 2020 til nu
+- Personlig assistent 
 
-[Link](url) and ![Image](src)
-```
+### Mine kompetencer 
+- Hårdtarbejdende 
+- Fokuseret
+- Perfektionistisk, men samtidig realistisk 
+- Smilende 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<img width="279" alt="Skærmbillede 2020-12-14 kl  12 30 14" src="https://user-images.githubusercontent.com/93583628/139831834-9698acf1-bd98-4daf-afd6-b65934e4e846.png">
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sofieeliasen/se00/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
