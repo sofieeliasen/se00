@@ -1,20 +1,14 @@
-## Welcome to GitHub Pages
+### Welcome to my page
 
-You can use the [editor on GitHub](https://github.com/sofieeliasen/se00/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here you will get to know more about me. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Resumé
+- From 2015-2019, I worked at a movie theatre called Palads Teatret in Frederikshavn.
+- From 2019-2021, I worked at Skagen Bryghus as a waiter.
+- From 2020-now, I work as a personal assistant for a lecturer at Aalborg University. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Hej 1
-## Med 2
-### Dig 3
-
+# My competences
 - Bulleted
 - List
 
